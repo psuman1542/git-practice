@@ -2,6 +2,6 @@ my name is suman kumar
 
 push
 
-commit -m
+commit -m (description)
 
 stage git add .
