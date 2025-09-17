@@ -1,0 +1,7 @@
+my name is suman kumar
+
+push
+
+commit -m
+
+stage git add .
